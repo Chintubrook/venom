@@ -7,7 +7,7 @@ import certifi
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
-TOKEN = '7370049272:AAHte_dvT29r372zjCmdJKMgngKQvggFv3c'
+TOKEN = '7370049272:AAESEy4uF2GR3nl3pSqAQS7E8tn4eqnOVSE'
 MONGO_URI = 'mongodb+srv://VENOMxCRAZY:CRAZYxVENOM@cluster0.ythilmw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0&tlsAllowInvalidCertificates=true'
 CHANNEL_ID = -100223246803
 ADMIN_IDS = [6508557076]
